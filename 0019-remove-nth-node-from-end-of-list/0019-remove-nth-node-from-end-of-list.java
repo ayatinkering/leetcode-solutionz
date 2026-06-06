@@ -10,7 +10,8 @@ class Solution {
             fast=fast.next; //CREATING GAP OF n
             i++;
         }
-        if(fast==null){return null;}
+        
+
         while(fast.next!=null){
             slow=slow.next;
             fast=fast.next;
