@@ -3,14 +3,13 @@ class Solution {
         ListNode dummy=new ListNode(0);
         dummy.next=head;
         head=dummy;
-        ListNode fast=dummy; ListNode slow=dummy; 
+        ListNode fast=head; ListNode slow=head; 
 
         int i=0;
         while(i<n){
             fast=fast.next; //CREATING GAP OF n
             i++;
         }
-        
 
         while(fast.next!=null){
             slow=slow.next;
