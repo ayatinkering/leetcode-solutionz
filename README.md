@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
