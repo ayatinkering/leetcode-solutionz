@@ -12,14 +12,14 @@ class Solution {
                 break;
             }
 
-            int l = i + 1; int r = nums.length - 1;
-            while (l < r) {
-                int sum = nums[i] + nums[l] + nums[r];
-                if (sum < 0) 
+            int l=i+1; int r=nums.length-1;
+            while (l<r) {
+                int sum=nums[i]+nums[l]+nums[r];
+                if (sum<0) 
                     l++;
-                else if (sum > 0) 
+                else if (sum>0) 
                     r--;
-                else {
+                else{
                     List<Integer> ans = new ArrayList<>();
                     ans.add(nums[i]);
                     ans.add(nums[l]);
@@ -30,7 +30,6 @@ class Solution {
                     while (l < r && nums[l] == nums[l - 1]) {
                         l++; //skip duplicates on left
                     }
-
                     while (l < r && nums[r] == nums[r + 1]) {
                         r--;  //skip duplicates on right
                     }
