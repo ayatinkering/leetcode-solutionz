@@ -17,7 +17,7 @@ class Solution {
                     ans.add(nums[l]); 
                     ans.add(nums[r]);
                     Collections.sort(ans);
-                    listans.add(ans);
+                    listans.add(ans); 
                     l++; r--; 
                 }
             }
