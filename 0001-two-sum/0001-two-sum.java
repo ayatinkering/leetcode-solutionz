@@ -6,9 +6,9 @@ class Solution {
             if(map.containsKey(nums[i])){
                 ans[0]=i;ans[1]=map.get(nums[i]);
             }
-            else{
+            
                 map.put(target-nums[i],i);
-            }
+            
         }
         return ans;
     }
