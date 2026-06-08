@@ -4,16 +4,14 @@ class Solution {
         Arrays.sort(nums);
 
         for(int a = 0; a < nums.length; a++) {
-            long sum3 = (long)target - nums[a];
+            long sum3 = (long)target - nums[a]; //3SUM but with an extra loop
             for(int i = a + 1; i < nums.length; i++) {
-                int l = i + 1;
-                int r = nums.length - 1;
-                long sum2 = sum3 - nums[i];
+                int l=i+1; int r=nums.length-1;
+                long sum2=sum3-nums[i];
 
-                while(l < r) {
-                    long pairSum = (long)nums[l] + nums[r];
-                    if(pairSum > sum2) {r--; }
-                    else if(pairSum < sum2) {l++; }
+                while(l<r) {
+                    if((long)nums[l] + nums[r] > sum2) {r--; }
+                    else if((long)nums[l] + nums[r] < sum2) {l++; }
                     else {
                         ArrayList<Integer> ans = new ArrayList<>();
                         ans.add(nums[a]);
