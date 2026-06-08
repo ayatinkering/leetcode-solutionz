@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
