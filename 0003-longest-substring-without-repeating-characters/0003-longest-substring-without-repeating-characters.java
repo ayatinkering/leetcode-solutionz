@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.equals(" ")) return 1;
         HashSet<Character> set=new HashSet<>();
         int l=0; int r=0; int w=0; int max=0;
         while(r<s.length()){
