@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 ## Interactive
