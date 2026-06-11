@@ -11,7 +11,7 @@ public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int l=1;int r=n;int mid=0; int g;
         while(l<=r){
-            mid=l+(r-l)/2;
+            mid=l + (r-l)/2; //START FROM L, MOVE HALFWAY THE DISTANCE BW r&l (r-l)/2
             g=guess(mid);
             if(g==0) return mid;
             if(g==1) l=mid+1;
