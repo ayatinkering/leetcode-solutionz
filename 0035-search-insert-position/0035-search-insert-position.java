@@ -8,6 +8,9 @@ class Solution {
             if(target>nums[mid]) l=mid+1; 
             else r=mid-1;
         }
+        //exits the loop when R LESSER THAN L, R is last position smaller than target
+        // l is first pos LARGER than target
+        //position=index+1 so l
         return l;
     }
 }
