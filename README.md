@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
