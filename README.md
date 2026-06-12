@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 ## Recursion
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 ## Binary Search
