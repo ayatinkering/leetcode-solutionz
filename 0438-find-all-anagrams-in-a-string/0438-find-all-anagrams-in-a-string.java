@@ -1,67 +1,39 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> list = new ArrayList<>();
+        if (p.length()>s.length()) return list;
 
-        List<Integer> ans = new ArrayList<>();
+        int[] pcount=new int[26];
+        int[] scount=new int[26];
 
-        if (p.length() > s.length()) {
-            return ans;
+        for(int i=0;i<p.length();i++){
+            pcount[p.charAt(i)-'a']++;
+            scount[s.charAt(i)-'a']++;
         }
-
-        int[] pCount = new int[26];
-        int[] sCount = new int[26];
-
-        for (int i = 0; i < p.length(); i++) {
-            pCount[p.charAt(i) - 'a']++;
-            sCount[s.charAt(i) - 'a']++;
+        int matches=0;
+        for(int i=0;i<26;i++){
+                if(scount[i]==pcount[i]) matches++;
         }
+        
+        int l=0;int r=p.length();
+        while(r<s.length()){
+            if (matches==26) list.add(l);
 
-        int matches = 0;
+            //add right char
+            int index=s.charAt(r)-'a';
+            if(scount[index]==pcount[index]) matches--;
+            scount[index]++;
+            if(scount[index]==pcount[index]) matches++;
 
-        for (int i = 0; i < 26; i++) {
-            if (pCount[i] == sCount[i]) {
-                matches++;
-            }
+            //remove left char (shift window front)
+            index=s.charAt(l)-'a';
+            if(scount[index]==pcount[index]) matches--;
+            scount[index]--;
+            if(scount[index]==pcount[index]) matches++;
+
+            l++;r++;
         }
-
-        int l = 0;
-
-        for (int r = p.length(); r < s.length(); r++) {
-
-            if (matches == 26) {
-                ans.add(l);
-            }
-
-            int index = s.charAt(r) - 'a';
-
-            if (pCount[index] == sCount[index]) {
-                matches--;
-            }
-
-            sCount[index]++;
-
-            if (pCount[index] == sCount[index]) {
-                matches++;
-            }
-
-            index = s.charAt(l) - 'a';
-
-            if (pCount[index] == sCount[index]) {
-                matches--;
-            }
-
-            sCount[index]--;
-
-            if (pCount[index] == sCount[index]) {
-                matches++;
-            }
-
-            l++;
-        }
-
-        if (matches == 26) {
-            ans.add(l);
-        }
-
-        return ans;
+        if(matches == 26) list.add(l); //for LAST match
+        return list;
     }
 }
