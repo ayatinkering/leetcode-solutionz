@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
