@@ -2,7 +2,8 @@ class MinStack {
     Deque<Integer> stk = new ArrayDeque<>();
     Deque<Integer> minstk = new ArrayDeque<>();
 
-    public MinStack() {
+    public MinStack() { 
+        //deque is an INTERFACE not a CLASS
     }
     
     public void push(int value) {
