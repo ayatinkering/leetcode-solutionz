@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 ## Interactive
