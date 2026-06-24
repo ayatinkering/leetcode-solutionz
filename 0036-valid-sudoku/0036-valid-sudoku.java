@@ -11,7 +11,7 @@ class Solution {
                 String col = num + " in col " + c;
                 String box = num + " in box " + (r / 3) + "-" + (c / 3);
 
-                if (seen.contains(row) || //num in
+                if (seen.contains(row) || //num in the SAME ROW
                     seen.contains(col) ||
                     seen.contains(box)
                 ) {
