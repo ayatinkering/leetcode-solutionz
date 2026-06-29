@@ -1,21 +1,19 @@
 class Solution {
+    
+    boolean is=true;
 
     public boolean isBalanced(TreeNode root) {
-        return height(root) != -1;
+        maxDepth(root);
+        return is;
     }
+    public int maxDepth(TreeNode root){
+        if(root==null) return 0;
+        int l=maxDepth(root.left);
+        int r=maxDepth(root.right);
 
-    private int height(TreeNode root) {
+        if(Math.abs(l-r)>1){
+            is=false;}
 
-        if (root == null) return 0;
-
-        int left = height(root.left);
-        if (left == -1) return -1;
-
-        int right = height(root.right);
-        if (right == -1) return -1;
-
-        if (Math.abs(left - right) > 1) return -1;
-
-        return 1 + Math.max(left, right);
+        return 1+Math.max(l,r);
     }
 }
