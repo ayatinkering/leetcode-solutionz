@@ -1,23 +1,18 @@
 class Solution {
-
     int diameter = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
+        if(root==null) return 0;
 
-        depth(root);
-
+        maxDepth(root);   // calculate depths, and max dia of each node
         return diameter;
-    }
+    }    
+    public int maxDepth(TreeNode root){
+        if(root==null) return 0;
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
 
-    private int depth(TreeNode root) {
-
-        if (root == null) return 0;
-
-        int left = depth(root.left);
-        int right = depth(root.right);
-
-        diameter = Math.max(diameter, left + right);
-
-        return 1 + Math.max(left, right);
+        diameter=Math.max(diameter,left+right); //COMPUTE DIA also while computing depth
+        return 1+Math.max(left,right);
     }
 }
