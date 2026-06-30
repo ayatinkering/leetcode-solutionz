@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0226-invert-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
