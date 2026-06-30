@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
