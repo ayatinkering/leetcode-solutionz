@@ -9,12 +9,12 @@ class Solution {
         while(l<=r){
             int mid=l+(r-l)/2; //now calc h for each k
             int hcalc=0;
-            for(double p:piles){
-                if(p<=mid) hcalc++;
-                else hcalc+=Math.ceil(p/mid);
+            for (int p : piles) {
+                hcalc += Math.ceil((double) p / mid); //plus 1 if lesser, plus ciel if greater
+                
             }//BIN SEARCH with hcalc and given h
             if(hcalc<=h) {
-                ans=mid; //still search left, as we want the minimum ans
+                ans=mid; //still search left, as we want the MINIMUM ans
                 r=mid-1;
             }
             else{
