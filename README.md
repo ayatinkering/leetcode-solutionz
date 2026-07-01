@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 ## Array
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
