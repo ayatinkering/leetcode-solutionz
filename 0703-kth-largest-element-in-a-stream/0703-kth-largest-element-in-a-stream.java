@@ -17,7 +17,7 @@ class KthLargest {
         minHeap.offer(val);
         if (minHeap.size() > k) 
             minHeap.poll();
-        return minHeap.peek(); //returnds KTH LARGEST (smallest in k zide heap)
+        return minHeap.peek(); //returnds KTH LARGEST (smallest in k size heap)
     }
 }
 
