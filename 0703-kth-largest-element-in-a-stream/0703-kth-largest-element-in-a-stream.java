@@ -6,20 +6,18 @@ class KthLargest {
     public KthLargest(int k, int[] nums) {
         this.k = k;
         this.minHeap = new PriorityQueue<>();
-        for (int num : nums) {
-            minHeap.offer(num);
-            if (minHeap.size() > k) {
+        for (int i : nums) { //add from ARRAY
+            minHeap.offer(i);
+            if (minHeap.size() > k) 
                 minHeap.poll();
-            }
         }
     }
 
-    public int add(int val) {
+    public int add(int val) { //add INDIVIDUAL VALUES
         minHeap.offer(val);
-        if (minHeap.size() > k) {
+        if (minHeap.size() > k) 
             minHeap.poll();
-        }
-        return minHeap.peek();
+        return minHeap.peek(); //returnds KTH LARGEST (smallest in k zide heap)
     }
 }
 
