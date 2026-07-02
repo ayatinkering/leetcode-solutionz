@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
