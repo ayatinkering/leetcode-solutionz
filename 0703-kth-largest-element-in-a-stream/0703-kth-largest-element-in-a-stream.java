@@ -6,20 +6,20 @@ class KthLargest {
     public KthLargest(int k, int[] nums) {
         this.k = k;
         this.minHeap = new PriorityQueue<>();
-        for (int num : nums) {
-            minHeap.offer(num);
-            if (minHeap.size() > k) {
+        for (int i : nums) { //add from ARRAY, the k largest elements
+            minHeap.offer(i); 
+            if (minHeap.size() > k) 
                 minHeap.poll();
-            }
+            
         }
     }
 
-    public int add(int val) {
+    public int add(int val) { //add indivual value
         minHeap.offer(val);
-        if (minHeap.size() > k) {
+        if (minHeap.size() > k) 
             minHeap.poll();
-        }
-        return minHeap.peek();
+        
+        return minHeap.peek(); //returns SMALLEST ELE - kth largest in heap size k
     }
 }
 
