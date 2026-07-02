@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
 ## Sorting
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -259,8 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
