@@ -7,9 +7,9 @@ class Solution {
         while (l<r) {
             int mid = l + (r-l) / 2;
             if (nums[mid]>nums[r]) 
-                l = mid + 1;
+                l=mid+1; //smallest has to be in the UNSORTED part
             else 
-                r=mid;
+                r=mid; 
         }
         return nums[l];
     }
