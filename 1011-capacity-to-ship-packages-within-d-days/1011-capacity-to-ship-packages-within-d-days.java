@@ -1,27 +1,31 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int d=days;
-        int maxw=weights[0]; int sum=0;
-        for(int i:weights){
-            if(i>maxw) maxw=i;
-            sum+=i;
+        int maxw=0; int sumw=0;
+        for(int i=0;i<weights.length;i++){
+            if(weights[i]>maxw) maxw=weights[i];
+            sumw+=weights[i];
         }
-        int ans=sum; //capacity has to be between max wieght and sum of all weights
-
-        int l=maxw;int r=sum;  
+        int ans=0;int curr;
+        int l=maxw; int r=sumw; int cap=0;
         while(l<=r){
-            int mid=l+(r-l)/2;
-            int dcalc=1; int curr=0;
-            for(int w:weights){
-                if(curr+w<=mid){curr+=w;}
-                else{
-                    dcalc++; curr=0+w;
+            int d=1;
+            cap=l+(r-l)/2;
+            curr=0;
+            for(int i:weights){
+                if(curr+i<=cap){
+                    curr+=i; 
+                }else{
+                    curr=i;
+                    d++;
                 }
             }
-            if(dcalc<=d){ 
-                ans=mid;
-                r=mid-1;
-            }else l=mid+1;
+            if(d<=days) {
+                ans=cap;
+                r=cap-1;
+            }
+            else if (d>days){
+                l=cap+1;
+            }
         }
         return ans;
     }
