@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
