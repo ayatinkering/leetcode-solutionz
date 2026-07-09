@@ -6,7 +6,6 @@ class Solution {
             if(area>max) max=area;
             if(height[l]<height[r]) l++;
             else r--;
-
         }
         return max;
     }
