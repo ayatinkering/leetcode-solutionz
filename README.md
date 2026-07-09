@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0567-permutation-in-string) |
