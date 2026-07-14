@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1046-last-stone-weight) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,4 +335,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
