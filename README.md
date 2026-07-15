@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0572-subtree-of-another-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
