@@ -1,21 +1,23 @@
 class Solution {
-    public int maxLength=0;
-    public void solve(TreeNode root,int dir,int currLength){
-        if(root==null) return;
-        maxLength=Math.max(maxLength,currLength);
-        if(dir==1){
-            solve(root.left,0,currLength+1);
-            solve(root.right,1,1);
+    int ans=0;
+    public int longestZigZag(TreeNode root) {
+        dfs(root.left,true,1);
+        dfs(root.right,false,1);
+        return ans;
+    }
+    public void dfs(TreeNode root,boolean cameFromLeft, int count){
+        if(root==null) return ;
+
+        ans=Math.max(ans,count);
+
+        if(cameFromLeft){
+            dfs(root.right,false,count+1); //CONTINUE zigzag
+            dfs(root.left,true,1); //RESTART
         }
         else{
-            solve(root.right,1,currLength+1);
-            solve(root.left,0,1);
+            dfs(root.left,true,count+1);
+            dfs(root.right,false,1);
         }
-    }
 
-    public int longestZigZag(TreeNode root) {
-        solve(root,0,0);
-        solve(root,1,0);
-        return maxLength;
     }
 }
