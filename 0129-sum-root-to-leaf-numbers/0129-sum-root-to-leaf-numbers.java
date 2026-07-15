@@ -1,18 +1,30 @@
 class Solution {
-    int sum = 0;
-
     public int sumNumbers(TreeNode root) {
-        helper(root, 0);
-        return sum;
-    }
+        List<Integer> path=new ArrayList<>();
+        List<List<Integer>> ans=new ArrayList<>();
 
-    void helper(TreeNode node, int path) {
-        if (node == null) return;
-        path = path * 10 + node.val;
-        if (node.left == null && node.right == null) {
-            sum += path;
+        int sum=0;
+        dfs(root,path,ans);
+        for(List<Integer> sub:ans){
+            for(Integer i=sub.size()-1;i>=0;i--){ 
+                sum+=sub.get(i)*Math.pow(10,sub.size()-1-i);            
+            }
         }
-        helper(node.left, path);
-        helper(node.right, path);
+        return sum;
+        
+    }
+    public void dfs(TreeNode root,List<Integer> path, List<List<Integer>> ans){
+        if(root==null) return;
+
+        path.add(root.val);
+
+        if(root.left==null && root.right==null) 
+            ans.add(new ArrayList<>(path)); //add COPY Of current list to ans
+                                            //ADDS In backward order, from leaf
+        
+        dfs(root.left,path,ans);
+        dfs(root.right,path,ans);
+        path.remove(path.size()-1); //BACKTRACKING
+
     }
 }
