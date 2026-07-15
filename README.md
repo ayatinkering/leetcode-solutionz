@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
+| [0427-construct-quad-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0427-construct-quad-tree) |
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0074-search-a-2d-matrix) |
+| [0427-construct-quad-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0572-subtree-of-another-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
