@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0088-merge-sorted-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0113-path-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
