@@ -1,23 +1,32 @@
-class Solution {
+public class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List < List < Integer >> ans = new ArrayList < > ();
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> subset=new ArrayList<>();
+     
         Arrays.sort(candidates);
-        findCombinations(0, candidates, target, ans, new ArrayList < > ());
+        dfs(candidates,0, subset, ans, target);
         return ans;
     }
-    static void findCombinations(int ind, int[] arr, int target, List < List < Integer >> ans, List < Integer > ds) {
-        if (target == 0) {
-            ans.add(new ArrayList < > (ds));
+
+    public void dfs(int[] candidates,int i,List<Integer> subset, List<List<Integer>> ans, int rem) {
+        if (rem==0) {
+            ans.add(new ArrayList<>(subset));
+            return;
+        }
+        if (i == candidates.length) { //numbers over
             return;
         }
 
-        for (int i = ind; i < arr.length; i++) {
-            if (i > ind && arr[i] == arr[i - 1]) continue;
-            if (arr[i] > target) break;
-
-            ds.add(arr[i]);
-            findCombinations(i + 1, arr, target - arr[i], ans, ds);
-            ds.remove(ds.size() - 1);
+        if(candidates[i]<=rem){ //TAKE IT
+            subset.add(candidates[i]);
+            dfs(candidates, i + 1, subset, ans, rem-candidates[i]);
+            subset.remove(subset.size() - 1);
         }
+        
+        while (i+1<candidates.length && candidates[i] == candidates[i + 1]) {
+            i++;
+        }
+
+        dfs(candidates, i + 1, subset, ans, rem); //DONT TAKE
     }
 }
