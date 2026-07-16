@@ -19,8 +19,6 @@ class Solution {
             dfs(candidates,i,subset,ans,remaining-candidates[i]);
             subset.remove(subset.size()-1); //backtrack
         }
- 
-        dfs(candidates,i+1,subset,ans,remaining);
-        
+        dfs(candidates,i+1,subset,ans,remaining); //DONT TAKE current ele, go next 
     }
 }
