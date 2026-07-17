@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0410-split-array-largest-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Union-Find
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
