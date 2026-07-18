@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0853-car-fleet) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0427-construct-quad-tree) |
+| [0695-max-area-of-island](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0695-max-area-of-island) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ayatinkering/leetcode-solutionz/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ayatinkering/leetcode-solutionz/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Prefix Sum
 |  |
