@@ -1,33 +1,30 @@
-public class Solution {
-    private static final int[][] directions = {{1, 0}, {-1, 0},
-                                               {0, 1}, {0, -1}};
-
+class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        int ROWS = grid.length, COLS = grid[0].length;
-        int area = 0;
-
-        for (int r = 0; r < ROWS; r++) {
-            for (int c = 0; c < COLS; c++) {
-                if (grid[r][c] == 1) {
-                    area = Math.max(area, dfs(grid, r, c));
+        int isl=0;int maxa=0; int area=0;
+        for(int r=0;r<grid.length;r++){
+            for(int c=0;c<grid[0].length;c++){
+                if(grid[r][c]==1){
+                    isl++; //new island found
+                    area=dfs(grid,r,c);
+                    if(area>maxa) maxa=area;
                 }
             }
         }
+        return maxa;
 
-        return area;
     }
-
-    private int dfs(int[][] grid, int r, int c) {
-        if (r < 0 || c < 0 || r >= grid.length ||
-            c >= grid[0].length || grid[r][c] == 0) {
+    public int dfs(int[][] grid,int r,int c){
+        if(r<0 || c<0 || r>=grid.length || c>=grid[0].length)
             return 0;
-        }
+        if(grid[r][c]==0)
+            return 0;
+        
+        grid[r][c]=0; //set to water after visiting
 
-        grid[r][c] = 0;
-        int res = 1;
-        for (int[] dir : directions) {
-            res += dfs(grid, r + dir[0], c + dir[1]);
-        }
-        return res;
+        return 1+dfs(grid,r-1,c)  //new island area itself + neighbours
+        + dfs(grid,r+1,c)
+        + dfs(grid,r,c-1)
+        + dfs(grid,r,c+1);
+         
     }
 }
