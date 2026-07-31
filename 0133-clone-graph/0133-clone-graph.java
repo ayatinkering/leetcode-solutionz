@@ -17,13 +17,11 @@ public class Solution {
     }
 
     public Node dfs(Node node, Map<Node, Node> map) {
-        if (node == null) {
+        if (node == null) 
             return null;
-        }
 
-        if (map.containsKey(node)) {
+        if (map.containsKey(node)) 
             return map.get(node);
-        }
 
         Node copy = new Node(node.val);
         map.put(node, copy);
